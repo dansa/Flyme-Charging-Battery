@@ -1,0 +1,10 @@
+Package: com.dansa.flymecharge
+Name: Flyme Charge - Lockscreen Battery
+Version: 0.1
+Depends: com.matchstic.infostats
+Architecture: iphoneos-arm
+Description: Charging widget inspired by FlymeOS.
+Depiction: http://dansa.github.io/depictions/info/com.dansa.flymecharge/index.html
+Maintainer: dansaDisco <saftsnubben@gmail.com>
+Author: dansaDisco <saftsnubben@gmail.com>
+Section: Themes
